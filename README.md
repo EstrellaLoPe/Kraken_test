@@ -1,2 +1,2 @@
 # Kraken_test
-Test de repositorio publico en 
+Test de repositorio publico en GitKraken
